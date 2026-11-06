@@ -1,0 +1,6 @@
+{
+  "name": "Recôncavo Prime Imóveis",
+  "description": "Plataforma imobiliária de alto padrão em Santo Antônio de Jesus e Recôncavo Baiano com busca em mapa interativo, tours virtuais 360° imersivos e agendamento de visitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
